@@ -10,3 +10,12 @@ Thanks
 ------
 Work on this project was graciously funded by the [NLnet Foundation](https://nlnet.nl/). Thank you!
 
+
+
+#simple test case for ice4j
+
+run main2 and main3 simultaneously
+enter main2 sdp info on main3 and vice versa(offer/answer)
+when corresponding sdp info is added on either sides connection gets setup and
+msg can be send to either sides
+
